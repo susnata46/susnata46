@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @susnata46
-- 👀 I’m interested in web technologies.
-- 🌱 I’m currently learning Javascript .
+- 👀 I’m interested in C++, DSA and Web Technologies.
+- 🌱 I’m currently learning Javascript, ROR, go.
 - 💞️ I’m looking to collaborate on any project on Node/React/Angular.
 - 📫 Reach me on : https://www.linkedin.com/in/susnata46/
 
